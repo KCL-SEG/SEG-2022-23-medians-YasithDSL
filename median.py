@@ -17,4 +17,3 @@ if len(numbers) % 2 == 0:
     print((left + right) / 2)
 else:
     print(numbers[(len(numbers) / 2).__floor__()])
-print(numbers)
